@@ -3,3 +3,9 @@
 ```sh
 stack build
 ```
+
+## Test
+
+```sh
+stack test
+```
