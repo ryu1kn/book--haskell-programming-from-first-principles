@@ -8,7 +8,6 @@ copyright:           "2020 Author name here"
 
 extra-source-files:
 - README.md
-- ChangeLog.md
 
 # Metadata used when publishing your package
 # synopsis:            Short description of your package
@@ -46,3 +45,4 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - first-principles
+    - hspec
